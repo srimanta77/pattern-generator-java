@@ -27,7 +27,7 @@ Run:
 java PatternGenerator
 
 ## 📷 Output Screenshot
-(see below)
+![Output](output.PNG)
 
 ## 👨‍💻 Author
 Srimanta Mondal
